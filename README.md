@@ -59,8 +59,11 @@ Currency-Converter/
    ```
 
 2. Open the project folder
+   ```bash
+   cd Currency-Converter/
+   ```
 
-3. Open `index.html` in your browser
+4. Open `index.html` in your browser
 (No server or installation required)
 
 ---
